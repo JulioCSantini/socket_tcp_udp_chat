@@ -1,0 +1,18 @@
+2026-05-03 20:08:05 [INFO] Servidor iniciando em 0.0.0.0:8000 (log em C:\Users\taiss\Julio Codes\efigenio\socket_tcp_udp_chat\tcp\server.log)
+2026-05-03 20:08:05 [INFO] Socket principal ouvindo em 0.0.0.0:8000
+2026-05-03 20:17:28 [INFO] Servidor iniciando em 0.0.0.0:8000 (log em C:\Users\taiss\Julio Codes\efigenio\socket_tcp_udp_chat\tcp\server.log)
+2026-05-03 20:17:28 [INFO] Socket principal ouvindo em 0.0.0.0:8000
+2026-05-03 20:18:42 [INFO] Nova conexão TCP de ('127.0.0.1', 55920)
+2026-05-03 20:18:48 [INFO] Cliente identificado: Julio de ('127.0.0.1', 55920)
+2026-05-03 20:18:55 [INFO] LIST pedido por Julio
+2026-05-03 20:19:18 [INFO] CHAT Julio: ok
+2026-05-03 20:22:17 [INFO] Nova conexão TCP de ('127.0.0.1', 51705)
+2026-05-03 20:22:21 [INFO] Cliente identificado: Rafael de ('127.0.0.1', 51705)
+2026-05-03 20:22:25 [INFO] LIST pedido por Rafael
+2026-05-03 20:23:29 [INFO] CHAT Rafael: OI
+2026-05-03 20:23:56 [INFO] PRIV Julio -> Julio: mensagem
+2026-05-03 20:24:25 [INFO] PRIV Rafael -> Julio: mama aqui
+2026-05-03 20:30:33 [INFO] Erro de socket Rafael (('127.0.0.1', 51705)): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2026-05-03 20:30:33 [INFO] Desconexão: ('127.0.0.1', 51705) (332) usuário=Rafael
+2026-05-03 20:30:34 [INFO] Erro de socket Julio (('127.0.0.1', 55920)): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2026-05-03 20:30:34 [INFO] Desconexão: ('127.0.0.1', 55920) (348) usuário=Julio
